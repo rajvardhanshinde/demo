@@ -1,2 +1,2 @@
 # demo
-hello
+algorithm new2
